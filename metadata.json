@@ -1,0 +1,6 @@
+{
+  "name": "RS Fitness",
+  "description": "Premium, high-energy cinematic website for RS Fitness Gym in Bengaluru, featuring class information, scheduling, and dynamic fitness팁 tips blog with integrated WhatsApp booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
